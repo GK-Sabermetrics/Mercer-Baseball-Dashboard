@@ -1,0 +1,13 @@
+name: Mercer-Baseball-Dashboard
+title: Mercer-Baseball-Dashboard
+username: gk-matt
+account: gk-matt
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11593286
+bundleId: 9293864
+url: https://gk-matt.shinyapps.io/Mercer-Baseball-Dashboard/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|data/2024 Full Season Data - Sheet1.csv|data/All Fall Data - Sheet1 copy.csv|data/All Preseason Data - Sheet1.csv|data/Fall Season 2023 - Full Fall Season (1).csv|LoadTesting.R|OmittedCode.R|RandomWork.R|shiny-run.R|www/DashStyle.css|www/SailorBear.png
