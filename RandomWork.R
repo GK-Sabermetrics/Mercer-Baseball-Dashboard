@@ -216,6 +216,8 @@ testA =
     ), .after = TaggedPitchType
     )
 
+testA %>% filter()
+
 testA %>% select(Pitcher, TaggedPitchType, PitchType, RelSpeed, avgVelo, SpinRate, avgSpin, InducedVertBreak, HorzBreak) %>% view()  
 
 ggplot(data = testA %>% filter(Pitcher == "Mummert, Wyatt"), aes(x = HorzBreak, y = InducedVertBreak, color = PitchType)) +
